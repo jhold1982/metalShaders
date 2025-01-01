@@ -8,4 +8,6 @@
 #include <metal_stdlib>
 using namespace metal;
 
-
+[[ stitchable ]] half4 name(float2 postition, half4 color) {
+	
+}
